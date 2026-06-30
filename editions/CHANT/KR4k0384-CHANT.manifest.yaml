@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR4k0384/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR4k0384/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 車頻秦書一卷
+  identifiers:
+    krp: KR4k0384
+  tags:
+    kr-categories: KR4k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0384.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR4k0384_001-CHANT.yaml, hash: 'sha256:45881331fa55d565dbcab4f130353a2ef374dac754309160438e3755b07cf392'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4k0384_001-CHANT.markers.yaml, hash: 'sha256:91270584c67067c8b4d06edddb4c77c2dee2ceea6badf2ceaa066b6f7944b1d1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4k0384_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 2074
+  label: 車頻秦書
+  type: section
+  level: 1
+hash: sha256:b0037726a9fd4437f32e0da7b6f0eabb8706549302881703de8ebe3c03a768e6

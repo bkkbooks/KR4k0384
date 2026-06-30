@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR4k0384/v1
+canonical_location: https://kanripo.org/bkk/KR4k0384/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 車頻秦書一卷
+  identifiers:
+    krp: KR4k0384
+  tags:
+    kr-categories: KR4k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0384.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR4k0384_001.yaml, hash: 'sha256:b3aaf7652dfbc9ad5c2194732caa53e44ab34e452fa48ddb6fe19af557fb04f1'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4k0384_001.markers.yaml, hash: 'sha256:2da43dbb700d9cde5ab1fa18348fc9ced64f82649e31fc66ae38fd221b70dc2f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4k0384_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 2074
+  label: 車頻秦書
+  type: section
+  level: 1
+hash: sha256:a3fa7999d57d20ae9fe489677139dba1f6d380eba52e32df748724aed891af82
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
