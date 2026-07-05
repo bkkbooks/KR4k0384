@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0384_001.yaml, hash: 'sha256:b3aaf7652dfbc9ad5c2194732caa53e44ab34e452fa48ddb6fe19af557fb04f1'}
+  - {seq: 1, filename: KR4k0384_001.yaml, hash: 'sha256:45881331fa55d565dbcab4f130353a2ef374dac754309160438e3755b07cf392'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0384_001.markers.yaml, hash: 'sha256:2da43dbb700d9cde5ab1fa18348fc9ced64f82649e31fc66ae38fd221b70dc2f'}
+  - {seq: 1, role: markers, filename: assets/KR4k0384_001.markers.yaml, hash: 'sha256:3a0ff9ac47478bc76c499003336762710ec3f6cc33d21b273454a9c0005f47f8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 車頻秦書
   type: section
   level: 1
-hash: sha256:a3fa7999d57d20ae9fe489677139dba1f6d380eba52e32df748724aed891af82
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:987643a5b9a710700bf20b93284595b5df27ddaa2cb7f63089fef97ea48b4e7d
