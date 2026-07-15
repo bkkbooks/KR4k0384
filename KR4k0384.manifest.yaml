@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4k0384/v1
 canonical_location: https://kanripo.org/bkk/KR4k0384/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 車頻秦書一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0384_001.yaml, hash: 'sha256:45881331fa55d565dbcab4f130353a2ef374dac754309160438e3755b07cf392'}
+  - {seq: 1, filename: KR4k0384_001.yaml, hash: 'sha256:ca380815e3e30c73cfd49009cffc5ba13812ce046927a3d0e6001311459b8d02'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0384_001.markers.yaml, hash: 'sha256:3a0ff9ac47478bc76c499003336762710ec3f6cc33d21b273454a9c0005f47f8'}
+  - {seq: 1, role: markers, filename: assets/KR4k0384_001.markers.yaml, hash: 'sha256:352803546a6de9c7f15dedf0874e4af0ad5448195c88f292247c1c7d3a5974ca'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 車頻秦書
   type: section
   level: 1
-hash: sha256:987643a5b9a710700bf20b93284595b5df27ddaa2cb7f63089fef97ea48b4e7d
+hash: sha256:880f24936e4aab67fb9537d0aacb11bc5cbd7bd7be0a710daf837a7babc96dbe
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
